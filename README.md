@@ -27,11 +27,18 @@
     - Para o autor deve ser possível armazenar o nome e a data de nascimento. 
     - Para a editora, deve ser possível armazenar o nome, o CNPJ e o endereço.
     - Faça os ajustes na impressão da etiqueta, para que continue funcionando.
+    - Construa um diagrama de classe para cada uma das classes criadas (.png)
 
-1. Crie classes cujos objetos devem representar figuras em software de desenho. Defina os atributos básicos paras desenhar cada uma, e métodos que retornem o valor de sua área.
+
+1. Observe o diagrama de classe abaixo e implemente a classe usuário. O método autenticar deve verificar se o nome de usuário e senha fornecidos estão corretos, caso positvo deve retornar **true**, caso contrário retornar **false**.
+
+    ![Usuario](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/IFNMG-Almenara-Classes/lista-classes-objetos/main/assets/usuario.iuml)
+
+1. Crie classes cujos objetos devem representar figuras em software de desenho. Defina os atributos básicos para desenhar cada uma, e métodos que retornem o valor de sua área.
     
     - Circulo
     - Quadrado
     - Triângulo
     - Losango
     - Retângulo
+    

@@ -4,8 +4,8 @@ class Usuario{
  - nome: String
  - usuario: String
  - senha: String
- - int: falhasConsecutivas
-
- - autetnicar(usuario: String, senha: String):boolean
+ 
+ - autenticar(usuario: String, senha: String):boolean
+ 
 }
 @enduml
